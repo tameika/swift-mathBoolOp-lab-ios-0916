@@ -4,10 +4,9 @@
 > Try to be a rainbow in someone's cloud. -[Maya Angelou](https://en.wikipedia.org/wiki/Maya_Angelou)
 
 
-## Learning Objectives
+## Overview
 
-* Use comparison and logical operators to evaluate statements
-* Write and call functions that use math and various operators
+In this lab, you'll use comparison and logical operators to evaluate statements. You'll write and call functions that use math and various operators. 
 
 ## Instructions
 
